@@ -1,6 +1,6 @@
 ## ¡Hola! 👋 Soy un apasionado desarrollador/a de software y especialista en ciberseguridad
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="Coding GIF" width="300" height="150" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="Coding GIF" width="256" height="192" />
 </p>
 Apasionado por la ciberseguridad y el desarrollo de software, con un enfoque en identificar vulnerabilidades y crear soluciones seguras e innovadoras.
 
