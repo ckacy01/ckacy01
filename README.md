@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="Coding GIF" />
 </p>
 Apasionado por la ciberseguridad y el desarrollo de software, con un enfoque en identificar vulnerabilidades y crear soluciones seguras e innovadoras.
+
 ---
 
 #### 🛠️ Habilidades y Competencias
