@@ -1,38 +1,40 @@
-## ¡Hola! 👋 Soy un apasionado desarrollador/a de software y especialista en ciberseguridad
+## Hello! 👋 I’m a passionate software developer and cybersecurity specialist
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="Coding GIF" width="256" height="192" />
 </p>
-Apasionado por la ciberseguridad y el desarrollo de software, con un enfoque en identificar vulnerabilidades y crear soluciones seguras e innovadoras.
+Passionate about cybersecurity and software development, focused on identifying vulnerabilities and creating secure and innovative solutions.
 
 ---
 
-#### 🛠️ Habilidades y Competencias
+#### 🛠️ Skills and Competencies
 
--   💻 **Programación:** Java, JavaScript, Python, SQL, Bash, C, C++, HTML, CSS
--   🌐 **Frameworks/Tecnologías:** Angular, Node.js, JavaFX, Flask
--   🛡️ **Ciberseguridad:** Seguridad de sistemas operativos (Linux y Windows), pruebas de penetración básicas, SIEM, gestión de riesgos
--   🐧 **Sistemas Operativos:** Linux, Windows
--   🗣️ **Idiomas:** Inglés (Nivel B2), Español (Nativo)
--   💪 **Habilidades Blandas:** Trabajo en equipo, Adaptabilidad, Aprendizaje rápido, Orientado al detalle, Resolución de problemas
----
-#### 🏅 Certificaciones
-
--   Google Cybersecurity Professional Certificate - Google/Coursera (Emitido: 2024)
--    Temas: Linux, redes, respuesta a incidentes, SIEM, principios de seguridad, gestión de riesgos, Wireshark, etc.
-
-#### 🔭 Intereses
-
--   Me apasiona explorar nuevas tecnologías en ciberseguridad y desarrollo full-stack. Estoy particularmente interesado en Pentesting, SOC, Desarrollo Backend, Administrador de servidores, creación de malware.
+- 💻 **Programming:** Java, JavaScript, Python, SQL, Bash, C, C++, HTML, CSS  
+- 🌐 **Frameworks/Technologies:** Angular, Node.js, JavaFX, Flask  
+- 🛡️ **Cybersecurity:** OS security (Linux & Windows), basic penetration testing, SIEM, risk management  
+- 🐧 **Operating Systems:** Linux, Windows  
+- 🗣️ **Languages:** English (B2), Spanish (Native)  
+- 💪 **Soft Skills:** Teamwork, Adaptability, Fast learner, Detail-oriented, Problem-solving  
 
 ---
 
-#### 🔗 ¡Conéctate!
+#### 🏅 Certifications
 
--   Puedes contactarme a través de GitHub para colaboraciones en proyectos de código abierto.
+- Google Cybersecurity Professional Certificate - Google/Coursera (Issued: 2024)  
+- Topics: Linux, networks, incident response, SIEM, security principles, risk management, Wireshark, etc.
+
+#### 🔭 Interests
+
+- I’m passionate about exploring new technologies in cybersecurity and full-stack development. I’m particularly interested in Pentesting, SOC, Backend Development, Server Administration, and malware creation.
 
 ---
 
-⌨️ ¡Gracias por visitar mi perfil! 😊
+#### 🔗 Connect with me!
+
+- You can reach me via GitHub for collaborations on open-source projects.
+
+---
+
+⌨️ Thanks for visiting my profile! 😊
 
 
 
