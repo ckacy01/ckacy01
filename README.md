@@ -9,7 +9,7 @@ Passionate about cybersecurity and software development, focused on identifying 
 #### 🛠️ Skills and Competencies
 
 - 💻 **Programming:** Java, JavaScript, Python, SQL, Bash, C, C++, HTML, CSS  
-- 🌐 **Frameworks/Technologies:** Angular, Node.js, JavaFX, Flask  
+- 🌐 **Frameworks/Technologies:** Angular, Node.js, JavaFX, Flask, Spring Boot  
 - 🛡️ **Cybersecurity:** OS security (Linux & Windows), basic penetration testing, SIEM, risk management  
 - 🐧 **Operating Systems:** Linux, Windows  
 - 🗣️ **Languages:** English (B2), Spanish (Native)  
